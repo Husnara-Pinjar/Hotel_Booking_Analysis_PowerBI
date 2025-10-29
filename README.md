@@ -13,7 +13,7 @@ to optimize pricing, improve customer satisfaction and stay patterns.
 
 2.Power Query
 
-3. DAX
+3.DAX
    
 4.Interactive charts
 
