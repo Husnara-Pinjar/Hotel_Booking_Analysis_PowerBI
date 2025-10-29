@@ -57,4 +57,4 @@ to optimize pricing, improve customer satisfaction and stay patterns.
 
 •	Stay pattern distribution:  Analyzed the distribution of stay patterns. 41% of customers stayed during weekends.
 
-#### Dashboard:
+
